@@ -1,2 +1,3 @@
 # DSA-Tasks
-This a repo to host  all the work i have done in Data structures &amp; Algorithm.
+
+Collection of data structures and algorithms implementations including trees, sorting, searching, and algorithm optimization exercises.
